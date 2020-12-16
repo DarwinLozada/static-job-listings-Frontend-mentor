@@ -11,7 +11,7 @@ const Container = styled.div`
   padding: ${(props) => props.padding};
   gap: ${(props) => props.gap};
 
-  @media (max-width: 814px) {
+  @media (max-width: 1200px) {
     border-top: ${(props) => props.borderTop};
     padding: ${(props) => props.padding_responsive};
     ${(props) => (props.isTagsSection ? "margin: 0" : "")}
@@ -30,7 +30,7 @@ const SideBar = styled.div`
 
 const ImageWrapper = styled.div`
   margin-right: 1.5rem;
-  @media (max-width: 814px) {
+  @media (max-width: 1200px) {
     position: absolute;
     top: -30px;
     overflow: hidden;
@@ -52,7 +52,7 @@ const JobDescription = styled.div`
   display: flex;
   flex-direction: column;
 
-  @media (max-width: 814px) {
+  @media (max-width: 1200px) {
     margin-bottom: 1.4rem;
   }
 `;
@@ -68,7 +68,7 @@ const JobCard = styled.div`
   box-shadow: 5px 5px 20px 1px #afcccc;
   border-radius: 5px;
 
-  @media (max-width: 814px) {
+  @media (max-width: 1200px) {
     margin: 0.8rem 2rem;
     margin-bottom: 2rem;
     flex-direction: column;

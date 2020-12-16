@@ -12,7 +12,6 @@ import {
 } from "../styled-components/styled-components";
 
 const JobOffer = ({ job, setTagsForFilter, tags }) => {
-  import("../images/account.svg").then();
   return (
     <>
       <JobCard>
