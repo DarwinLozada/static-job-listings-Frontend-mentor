@@ -1,9 +1,7 @@
-const imageRoute = "/images/";
-
 const jobOffers = [
   {
     company: "Photosnap",
-    companyLogo: `${imageRoute}photosnap.svg`,
+    companyLogo: `photosnap.svg`,
     newJob: true,
     featured: true,
     jobTitle: "Senior Frontend Developer",
@@ -16,7 +14,7 @@ const jobOffers = [
   },
   {
     company: "Manage",
-    companyLogo: `${imageRoute}manage.svg`,
+    companyLogo: `manage.svg`,
     newJob: true,
     featured: true,
     jobTitle: "Fullstack Developer",
@@ -30,7 +28,7 @@ const jobOffers = [
 
   {
     company: "Account",
-    companyLogo: `${imageRoute}account.svg`,
+    companyLogo: `account.svg`,
     newJob: true,
     featured: false,
     jobTitle: "Junior Frontend Developer",
@@ -43,7 +41,7 @@ const jobOffers = [
   },
   {
     company: "MyHome",
-    companyLogo: `${imageRoute}myhome.svg`,
+    companyLogo: `myhome.svg`,
     newJob: false,
     featured: false,
     jobTitle: "Junior Frontend Developer",
@@ -56,7 +54,7 @@ const jobOffers = [
   },
   {
     company: "Loop Studios",
-    companyLogo: `${imageRoute}loop-studios.svg`,
+    companyLogo: `loop-studios.svg`,
     newJob: false,
     featured: false,
     jobTitle: "Software Engineer",
@@ -69,7 +67,7 @@ const jobOffers = [
   },
   {
     company: "FaceIt",
-    companyLogo: `${imageRoute}faceit.svg`,
+    companyLogo: `faceit.svg`,
     newJob: false,
     featured: false,
     jobTitle: "Junior Backend Developer",
@@ -82,7 +80,7 @@ const jobOffers = [
   },
   {
     company: "Shortly",
-    companyLogo: `${imageRoute}shortly.svg`,
+    companyLogo: `shortly.svg`,
     newJob: false,
     featured: false,
     jobTitle: "Junior Developer",
@@ -95,7 +93,7 @@ const jobOffers = [
   },
   {
     company: "Insure",
-    companyLogo: `${imageRoute}insure.svg`,
+    companyLogo: `insure.svg`,
     newJob: false,
     featured: false,
     jobTitle: "Junior Frontend Developer",
@@ -108,7 +106,7 @@ const jobOffers = [
   },
   {
     company: "Eyecam Co.",
-    companyLogo: `${imageRoute}eyecam-co.svg`,
+    companyLogo: `eyecam-co.svg`,
     newJob: false,
     featured: false,
     jobTitle: "Full Stack Engineer",
@@ -121,7 +119,7 @@ const jobOffers = [
   },
   {
     company: "The Air Filter Company",
-    companyLogo: `${imageRoute}the-air-filter-company.svg`,
+    companyLogo: `the-air-filter-company.svg`,
     newJob: false,
     featured: false,
     jobTitle: "Front-end Dev",

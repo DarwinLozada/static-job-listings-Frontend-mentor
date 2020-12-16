@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import JobInfo from "./JobInfo";
 import Tag from "./Tag";
 import {
@@ -12,18 +12,20 @@ import {
 } from "../styled-components/styled-components";
 
 const JobOffer = ({ job, setTagsForFilter, tags }) => {
-  const jobInfo = job.info;
+  import("../images/account.svg").then();
   return (
     <>
       <JobCard>
         <Container>
           {job.featured ? <SideBar /> : null}
+
           <ImageWrapper>
             <img
-              src={window.location.origin + job.companyLogo}
-              alt="company-logo"
+              src={require(`../images/${job.companyLogo}`).default}
+              alt="logo"
             ></img>
           </ImageWrapper>
+
           <JobDescription>
             <Container wrap="wrap">
               <CompanyName>{job.company}</CompanyName>
@@ -33,7 +35,7 @@ const JobOffer = ({ job, setTagsForFilter, tags }) => {
             <JobTitle>{job.jobTitle}</JobTitle>
             <JobInfo
               props={{
-                timeSincePosted: jobInfo.timeSincePosted,
+                timeSincePosted: job.info.timeSincePosted,
                 jobType: job.info.jobType,
                 workModality: job.info.workModality,
               }}

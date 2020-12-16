@@ -42,11 +42,11 @@ const Background = () => {
     <>
       <Header>
         <ImageWrapperDesktop
-          src={window.location.origin + "/images/bg-header-desktop.svg"}
+          src={require("../images/bg-header-desktop.svg").default}
           alt="bg-header-img"
         ></ImageWrapperDesktop>
         <ImageWrapperMobile
-          src={window.location.origin + "/images/bg-header-mobile.svg"}
+          src={require("../images/bg-header-mobile.svg").default}
           alt="bg-header-img"
         ></ImageWrapperMobile>
       </Header>
