@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static-job-listings-Frontend-mentor/static/js/main.a579bbe7.chunk.js",
-    "main.js.map": "/static-job-listings-Frontend-mentor/static/js/main.a579bbe7.chunk.js.map",
+    "main.js": "/static-job-listings-Frontend-mentor/static/js/main.866e9440.chunk.js",
+    "main.js.map": "/static-job-listings-Frontend-mentor/static/js/main.866e9440.chunk.js.map",
     "runtime-main.js": "/static-job-listings-Frontend-mentor/static/js/runtime-main.13836f67.js",
     "runtime-main.js.map": "/static-job-listings-Frontend-mentor/static/js/runtime-main.13836f67.js.map",
-    "static/js/2.e8b2dd0c.chunk.js": "/static-job-listings-Frontend-mentor/static/js/2.e8b2dd0c.chunk.js",
-    "static/js/2.e8b2dd0c.chunk.js.map": "/static-job-listings-Frontend-mentor/static/js/2.e8b2dd0c.chunk.js.map",
+    "static/js/2.f323789b.chunk.js": "/static-job-listings-Frontend-mentor/static/js/2.f323789b.chunk.js",
+    "static/js/2.f323789b.chunk.js.map": "/static-job-listings-Frontend-mentor/static/js/2.f323789b.chunk.js.map",
     "index.html": "/static-job-listings-Frontend-mentor/index.html",
-    "static/js/2.e8b2dd0c.chunk.js.LICENSE.txt": "/static-job-listings-Frontend-mentor/static/js/2.e8b2dd0c.chunk.js.LICENSE.txt",
+    "static/js/2.f323789b.chunk.js.LICENSE.txt": "/static-job-listings-Frontend-mentor/static/js/2.f323789b.chunk.js.LICENSE.txt",
     "static/media/account.svg": "/static-job-listings-Frontend-mentor/static/media/account.903d6cd0.svg",
     "static/media/bg-header-desktop.svg": "/static-job-listings-Frontend-mentor/static/media/bg-header-desktop.8694f466.svg",
     "static/media/bg-header-mobile.svg": "/static-job-listings-Frontend-mentor/static/media/bg-header-mobile.9cb13612.svg",
@@ -24,7 +24,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.13836f67.js",
-    "static/js/2.e8b2dd0c.chunk.js",
-    "static/js/main.a579bbe7.chunk.js"
+    "static/js/2.f323789b.chunk.js",
+    "static/js/main.866e9440.chunk.js"
   ]
 }
