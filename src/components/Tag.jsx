@@ -36,7 +36,7 @@ const Tag = (props) => {
       {props.typeTag === "filterTag" && (
         <EliminateSquare onClick={() => handleRemoveTag(tagText)}>
           <img
-            src={window.location.origin + "/images/icon-remove.svg"}
+            src={require("../images/icon-remove.svg").default}
             alt="icon"
           ></img>
         </EliminateSquare>
