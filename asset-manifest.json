@@ -1,17 +1,30 @@
 {
   "files": {
-    "main.js": "/static-job-listings-Frontend-mentor/static/js/main.066e9c94.chunk.js",
-    "main.js.map": "/static-job-listings-Frontend-mentor/static/js/main.066e9c94.chunk.js.map",
+    "main.js": "/static-job-listings-Frontend-mentor/static/js/main.a579bbe7.chunk.js",
+    "main.js.map": "/static-job-listings-Frontend-mentor/static/js/main.a579bbe7.chunk.js.map",
     "runtime-main.js": "/static-job-listings-Frontend-mentor/static/js/runtime-main.13836f67.js",
     "runtime-main.js.map": "/static-job-listings-Frontend-mentor/static/js/runtime-main.13836f67.js.map",
-    "static/js/2.ce06231c.chunk.js": "/static-job-listings-Frontend-mentor/static/js/2.ce06231c.chunk.js",
-    "static/js/2.ce06231c.chunk.js.map": "/static-job-listings-Frontend-mentor/static/js/2.ce06231c.chunk.js.map",
+    "static/js/2.e8b2dd0c.chunk.js": "/static-job-listings-Frontend-mentor/static/js/2.e8b2dd0c.chunk.js",
+    "static/js/2.e8b2dd0c.chunk.js.map": "/static-job-listings-Frontend-mentor/static/js/2.e8b2dd0c.chunk.js.map",
     "index.html": "/static-job-listings-Frontend-mentor/index.html",
-    "static/js/2.ce06231c.chunk.js.LICENSE.txt": "/static-job-listings-Frontend-mentor/static/js/2.ce06231c.chunk.js.LICENSE.txt"
+    "static/js/2.e8b2dd0c.chunk.js.LICENSE.txt": "/static-job-listings-Frontend-mentor/static/js/2.e8b2dd0c.chunk.js.LICENSE.txt",
+    "static/media/account.svg": "/static-job-listings-Frontend-mentor/static/media/account.903d6cd0.svg",
+    "static/media/bg-header-desktop.svg": "/static-job-listings-Frontend-mentor/static/media/bg-header-desktop.8694f466.svg",
+    "static/media/bg-header-mobile.svg": "/static-job-listings-Frontend-mentor/static/media/bg-header-mobile.9cb13612.svg",
+    "static/media/eyecam-co.svg": "/static-job-listings-Frontend-mentor/static/media/eyecam-co.0abb14e8.svg",
+    "static/media/faceit.svg": "/static-job-listings-Frontend-mentor/static/media/faceit.54a148ce.svg",
+    "static/media/icon-remove.svg": "/static-job-listings-Frontend-mentor/static/media/icon-remove.70c075ce.svg",
+    "static/media/insure.svg": "/static-job-listings-Frontend-mentor/static/media/insure.4d535e7e.svg",
+    "static/media/loop-studios.svg": "/static-job-listings-Frontend-mentor/static/media/loop-studios.7778c957.svg",
+    "static/media/manage.svg": "/static-job-listings-Frontend-mentor/static/media/manage.5a528a96.svg",
+    "static/media/myhome.svg": "/static-job-listings-Frontend-mentor/static/media/myhome.aaaaa430.svg",
+    "static/media/photosnap.svg": "/static-job-listings-Frontend-mentor/static/media/photosnap.5a867c13.svg",
+    "static/media/shortly.svg": "/static-job-listings-Frontend-mentor/static/media/shortly.3c01b577.svg",
+    "static/media/the-air-filter-company.svg": "/static-job-listings-Frontend-mentor/static/media/the-air-filter-company.9b55f644.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.13836f67.js",
-    "static/js/2.ce06231c.chunk.js",
-    "static/js/main.066e9c94.chunk.js"
+    "static/js/2.e8b2dd0c.chunk.js",
+    "static/js/main.a579bbe7.chunk.js"
   ]
 }
